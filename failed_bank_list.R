@@ -1,8 +1,6 @@
 #!/usr/bin/env R
 
-failed_banks <- read.csv("failed_bank_list.csv", 
-                         header=T, 
-                         sep=",")
+failed_banks <- read.csv("failed_bank_list.csv", header=T, sep=",")
 
 # plot bar graph: failed banks by state from 2008 to January 2015
 plot(failed_banks[2:519,"ST"], 
