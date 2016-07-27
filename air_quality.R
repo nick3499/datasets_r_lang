@@ -1,4 +1,4 @@
-#!/usr/bin/r
+#!/usr/bin/env R
 
 # https://archive.ics.uci.edu/ml/datasets/Air+Quality
 air_quality <- read.csv("air_quality_uci.csv", header = TRUE, sep = ";")
