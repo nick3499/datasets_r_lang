@@ -7,3 +7,5 @@
  - failed_bank_list.R: [https://catalog.data.gov/dataset/fdic-failed-bank-list](https://catalog.data.gov/dataset/fdic-failed-bank-list)
 
 Data sets saved in .csv file format are considerably easier to work with.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
